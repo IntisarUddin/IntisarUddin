@@ -20,24 +20,42 @@
 
 ### 🧠 Machine Learning & AI
 
-**Micrograd From Scratch**
+#### 🤖 GPT-2 From Scratch
 
-* Built an automatic differentiation engine from scratch
-* Implemented neural networks without external frameworks
+* Built a GPT-style transformer model from scratch using PyTorch
+* Implemented self-attention, multi-head attention, and positional encoding
+* Trained on Tiny Shakespeare dataset for character-level text generation
+* Deep dive into transformer architecture and sequence modeling
+  🔗 https://github.com/IntisarUddin/gpt-2_from_scratch
+
+---
+
+#### 🚀 Micrograd From Scratch
+
+* Built an automatic differentiation engine from first principles
+* Implemented neural networks without external ML frameworks
+* Focus: backpropagation, computational graphs, gradient flow
   🔗 https://github.com/IntisarUddin/Micrograd_from_scratch
 
-**Build Make More**
+---
 
-* Character-level language model
-* Explored embeddings, softmax, and training pipeline
+#### 🧩 Build Make More
+
+* Character-level language model inspired by GPT-style architectures
+* Implemented embeddings, softmax, and training pipeline from scratch
+* Explored sequence modeling and token prediction
   🔗 https://github.com/IntisarUddin/Build_make_more
 
-**🌦️ Weather Classification Model**
+---
 
-* Developed a classifier to predict weather codes accurately
+#### 🌦️ Weather Classification Model
+
+* Developed a machine learning model to predict weather conditions
 * Applied data preprocessing, feature engineering, and evaluation techniques
-* Focused on improving model accuracy and reliability
+* Focused on improving accuracy and robustness
   🔗 https://github.com/IntisarUddin/Santa_Claus
+
+---
 
 ---
 
