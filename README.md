@@ -123,6 +123,7 @@
 ## 📫 Contact
 
 * GitHub: https://github.com/IntisarUddin
+* Email: intisaruddin7009@gmail.com
 
 ---
 
