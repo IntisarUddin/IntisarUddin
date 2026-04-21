@@ -89,17 +89,17 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-Python • Java • JavaScript • C/C++
+  Python • Java • JavaScript • C/C++
 
 **Machine Learning**
-PyTorch • NumPy
-Neural Networks (from scratch)
+  PyTorch • NumPy
+  Neural Networks (from scratch)
 
 **Web Development**
-React • Node.js • Express • MongoDB
+  React • Node.js • Express • MongoDB
 
 **Core CS**
-DSA • OOP • Database Systems
+  DSA • OOP • Database Systems
 
 ---
 
